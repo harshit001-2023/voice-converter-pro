@@ -165,10 +165,6 @@ voice_converter.py
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **pyttsx3** for cross-platform TTS functionality
@@ -178,8 +174,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/voice-converter-pro](https://github.com/yourusername/voice-converter-pro)
+Harshit Pande- harshitpande938@gmail.com
+Project Link: [https://github.com/harshit001-2023/voice-converter-pro](https://github.com/harshit001-2023/voice-converter-pro)
 
 ---
 
