@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="voice-converter-pro",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Harshit Pande",
+    author_email="harshitpande938@gmail.com",
     description="Advanced Text-to-Speech and Speech-to-Text converter with modern GUI",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/voice-converter-pro",
+    url="https://github.com/harshit001-2023/voice-converter-pro",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
