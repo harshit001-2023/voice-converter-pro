@@ -174,7 +174,7 @@ def main():
         print("=" * 50)
         print("To run the full application with GUI:")
         print("python voice_converter.py")
-        print("\nRepository: https://github.com/yourusername/voice-converter-pro")
+        print("\nRepository: https://github.com/harshit001-2023/voice-converter-pro")
         
     except KeyboardInterrupt:
         print("\n\n❌ Demo interrupted by user")
